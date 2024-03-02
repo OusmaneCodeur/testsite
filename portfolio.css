@@ -1,0 +1,97 @@
+body{
+    background: #1e1a2e;
+}
+.section1{
+    margin-top: 1px;
+    background-image: url(IMG-20240223-WA0053.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    height: 20rem;
+}
+h3{
+    color: white;
+    margin-left: 2rem;
+}
+span{
+    color: rgb(224, 24, 74);
+}
+nav{
+    margin-top: -3rem;
+    margin-left: 25rem;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+ul li a{
+    color: white;
+    letter-spacing: 0.1rem;
+    text-decoration: none;
+}
+ul li a:hover{
+    color: rgb(224, 24, 74);
+}
+ul li{
+    float: left;
+    padding: 35px;
+}
+.Subscribe{
+    margin-left: 16rem;
+    margin-top: 0.7rem;
+    border: 0;
+    color: white;
+    background: rgb(224, 24, 74);
+    border-radius: 15px;
+    width: 6rem;
+    height: 1.5rem;
+    cursor: pointer;
+}
+h5{
+    color: rgb(224, 24, 74);
+    margin-left: 2rem;
+}
+h1{
+    color: white;
+    margin-left: 2rem;
+}
+#i_am_web_developper{
+    color: white;
+    margin-left: 2rem; 
+}
+
+input[type="text"]{
+    margin-left: 2rem;
+    border-radius: 15px;
+    width: 18rem;
+    height: 1.8rem;
+    border: 0; 
+    box-shadow: 1px 1px 1px 1px rgb(224, 24, 74);
+}
+input[type="submit"]{
+    margin-left: -6.5rem;
+    border-radius: 15px;
+    border: 0;
+    background: rgb(224, 24, 74);
+    color: white;
+    height: 1.5rem;
+    width: 6rem;
+    cursor: pointer;
+}
+.section2{
+    display: flex;
+}
+.tof{
+    background-image: url(IMG-20240223-WA0053.jpg);
+    height: 25rem;
+    width: 35rem;
+    background-size: calc(25 35);
+    background-repeat: no-repeat;
+}
+.me_about{
+    color: white;
+}
+.ETUDIANT{
+    color: white;
+}
